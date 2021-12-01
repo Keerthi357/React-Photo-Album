@@ -1,0 +1,14 @@
+
+.header {
+    text-align: center;
+    background-color:rgb(121, 7, 7);
+    padding: 1em; }
+    .header h1 {
+      margin: 0;
+      color: white; }
+.card{
+    border: 1px solid grey;
+    margin-bottom: 4px;
+    width: 40%;
+    cursor: pointer;
+}  

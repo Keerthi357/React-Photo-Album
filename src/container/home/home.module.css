@@ -1,0 +1,18 @@
+.userCard{
+    display:flex;
+    flex-direction: column;
+    padding-top: 10px;
+    
+}
+.userList{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.button{
+    border-radius: 50%;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    margin-right:10px;
+
+}
